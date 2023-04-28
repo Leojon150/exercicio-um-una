@@ -1,4 +1,4 @@
-# *exercicio-um-una
+# exercicio-um-una
 *meu perfil no linkedin (https://www.linkedin.com/in/leonardo-jhonatan-b5b57226a/)
 
 *tecnologias utilizadas 
